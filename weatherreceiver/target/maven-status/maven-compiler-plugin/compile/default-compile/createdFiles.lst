@@ -1,0 +1,10 @@
+com\raquibul\quickstartall\jms\receiver\WeatherReceiverException.class
+com\raquibul\quickstartall\jms\receiver\WeatherReceiverApplication.class
+com\raquibul\quickstartall\jms\receiver\config\WeatherReceiverConfig.class
+com\raquibul\quickstartall\jms\receiver\model\Weather.class
+com\raquibul\quickstartall\jms\receiver\service\WeatherReceiverService.class
+com\raquibul\quickstartall\jms\receiver\model\Rain.class
+com\raquibul\quickstartall\jms\receiver\util\WeatherReceiverUtil.class
+com\raquibul\quickstartall\jms\receiver\model\Temperature.class
+com\raquibul\quickstartall\jms\receiver\service\WeatherReceiverServiceImpl.class
+com\raquibul\quickstartall\jms\receiver\WeatherReceiverProcessor.class
